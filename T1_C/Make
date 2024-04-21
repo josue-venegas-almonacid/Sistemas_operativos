@@ -1,0 +1,2 @@
+clasificar: clasificar.c structs.h
+	gcc -Wall -o clasificar clasificar.c structs.h

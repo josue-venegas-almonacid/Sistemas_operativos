@@ -1,0 +1,2 @@
+topos: topos.c funciones.h
+	gcc -Wall -o topos topos.c funciones.h
