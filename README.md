@@ -2,7 +2,7 @@
 Sistemas Operativos
 
 # Descripción
-Repositorio utilizado para alojar los ejercicios desarrollados durante el curso "Sistemas Operativos"
+Repositorio utilizado para alojar los ejercicios desarrollados durante el curso "Sistemas Operativos" el primer semestre del año 2020 en la Universidad Técnica Federico Santa María, para la carrera de Ingeniería Civil en Informática.
 
 # T1 C
 Programa en C de un organizador automático de libros, ordenados por autor, género en el que más escribió, y puntuación promedio, emulando los comandos de Linux para la creación de directorios y copia de ficheros
